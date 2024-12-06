@@ -46,7 +46,7 @@
             include '404.php'; // Halaman untuk rute yang tidak ditemukan
             break;
     }
-    include 'footer.php';
+    // include 'footer.php';
     ?>
     <script src="js/jquery.js"></script>
     <!-- Bootstrap Core JavaScript -->
